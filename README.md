@@ -14,10 +14,10 @@ A Python-based simulation of 1D, 2D, and 3D random walks with visualization and 
       pip install numpy matplotlib scikit-learn
 
 ## How to Run
-1. Clone the repository to your local machine:
+1. Clone the repository to your local machine :
    git clone https://github.com/your-username/random-walk-simulation.git
 
-2.Navigate to the project directory:
+2. Navigate to the project directory :
    cd random-walk-simulation
 
 3. Run the python script:
