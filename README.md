@@ -20,5 +20,5 @@ A Python-based simulation of 1D, 2D, and 3D random walks with visualization and 
 2. Navigate to the project directory :
    cd random-walk-simulation
 
-3. Run the python script:
-   python random_walk.py
+3. Run the python script :
+    python random_walk.py
