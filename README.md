@@ -2,11 +2,11 @@
 A Python-based simulation of 1D, 2D, and 3D random walks with visualization and prediction using Linear Regression.
 
 ## Features  
-- 1D, 2D, and 3D Random Walks*
-- Animated 2D Random Walk*
-- Biased Random Walk*  
-- Multiple Walkers Comparison* 
-- Future Prediction using Linear Regression*  
+- 1D, 2D, and 3D Random Walks
+- Animated 2D Random Walk
+- Biased Random Walk
+- Multiple Walkers Comparison 
+- Future Prediction using Linear Regression  
 
 ## Requirements  
 - Install dependencies:  
