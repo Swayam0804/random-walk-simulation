@@ -15,10 +15,13 @@ A Python-based simulation of 1D, 2D, and 3D random walks with visualization and 
 
 ## How to Run
 1. Clone the repository to your local machine :
+   ```sh
    git clone https://github.com/your-username/random-walk-simulation.git
 
 2. Navigate to the project directory :
+   ```sh
    cd random-walk-simulation
 
 3. Run the python script :
+   ```sh
     python random_walk.py
